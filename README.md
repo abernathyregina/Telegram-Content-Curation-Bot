@@ -93,7 +93,7 @@ It eliminates the repetitive workflow of manually searching for new updates or r
     │
     ├── requirements.txt
     └── README.md
-    ```
+```
 
 ## Use Cases
 - **Media Agencies** use it to keep their Telegram channels consistently updated with industry content.  
